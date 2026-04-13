@@ -14,14 +14,17 @@ const notoSansJP = Noto_Sans_JP({
 })
 
 export const metadata: Metadata = {
-  title: 'Rika Saito | Software Engineer',
+  title: 'Rika Saito | Full-stack Engineer',
   description: 'Full-stack software engineer specializing in React, TypeScript, Python, and cloud technologies. Building scalable web applications with modern frameworks.',
   keywords: ['Software Engineer', 'Full Stack Developer', 'React', 'TypeScript', 'Python', 'Next.js'],
   authors: [{ name: 'Rika Saito' }],
   openGraph: {
-    title: 'Rika Saito | Software Engineer',
+    title: 'Rika Saito | Full-stack Engineer',
     description: 'Full-stack software engineer building scalable web applications',
     type: 'website',
+  },
+  icons: {
+    icon: { url: '/favicon.svg', type: 'image/svg+xml' },
   },
 }
 

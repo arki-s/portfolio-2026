@@ -28,11 +28,11 @@ export function Hero() {
         <p className="text-lg sm:text-xl md:text-2xl text-muted-foreground mb-2">
           Full-Stack Engineer
         </p>
-        <p className="text-base sm:text-lg text-muted-foreground/80 font-[family-name:var(--font-noto-sans-jp)] mb-8">
+        <p className="text-base sm:text-lg text-muted-foreground/80 mb-8">
           開発・設計・チームマネジメントを横断するエンジニア
         </p>
         <p className="text-base sm:text-lg text-muted-foreground max-w-xl mx-auto mb-10 leading-relaxed">
-          <span className="font-[family-name:var(--font-noto-sans-jp)]">
+          <span className="">
             CSでのマネジメント・業務改善経験とエンジニアリングを掛け合わせ、
             上流から実装まで一貫して動けるエンジニアです。
           </span>
